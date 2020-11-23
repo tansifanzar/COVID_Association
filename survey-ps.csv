@@ -1,0 +1,681 @@
+﻿Male,23-30,EYes,FYes,GNo,HNo,IN,JN,KY,LY,MN,NY
+Male,31-49,ENo,FNo,GYes,HNo,IM,JY,KY,LY,MM,NN
+Male,23-30,EYes,FYes,GYes,HNo,IN,JM,KY,LY,MN,NM
+Male,23-30,ENo,FYes,GYes,HNo,IN,JN,KY,LN,MN,NM
+Male,23-30,Maybe,FMay be,GYes,HNo,IN,JN,KM,LM,MN,NY
+Male,23-30,EYes,FNo,GNo,HNo,IM,JM,KN,LN,MN,NY
+Male,23-30,EYes,FYes,GYes,HNo,IN,JY,KN,LN,MY,NY
+Male,23-30,ENo,FNo,GNo,HNo,IN,JY,KN,LN,MY,NY
+Male,23-30,ENo,FYes,GYes,HNo,IN,JM,KY,LY,MN,NM
+Male,23-30,EYes,FYes,GMay be,HNo,IN,JY,KM,LN,MM,NN
+Male,23-30,EYes,FYes,GYes,HNo,IN,JN,KY,LN,MN,NY
+Male,23-30,EYes,FNo,GMay be,HNo,IYes,JY,KM,LY,MN,NY
+Male,23-30,EYes,FNo,GMay be,HNo,IN,JN,KY,LN,MN,NY
+Male,23-30,EYes,FMay be,GYes,HNo,IN,JY,KN,LY,MY,NN
+Male,23-30,EYes,FNo,GNo,HNo,IN,JM,KY,LY,MN,NN
+Male,23-30,EYes,FYes,GYes,HNo,IN,JN,KY,LN,MY,NY
+Male,23-30,EYes,FMay be,GNo,HNo,IN,JN,KY,LM,MN,NN
+Male,19-22,Maybe,FNo,GYes,HNo,IN,JN,KY,LN,MN,NY
+Male,23-30,EYes,FNo,GMay be,HNo,IN,JN,KN,LN,MY,NY
+Male,23-30,EYes,FYes,GYes,HNo,IM,JN,KY,LM,MN,NM
+Male,23-30,EYes,FYes,GYes,HNo,IM,JY,KY,LN,MN,NN
+Male,23-30,EYes,FYes,GNo,HNo,IYes,JY,KM,LN,MN,NM
+Male,31-49,EYes,FYes,GNo,HNo,IN,JN,KY,LN,MN,NY
+Male,19-22,EYes,FYes,GMay be,HNo,IN,JN,KY,LM,MN,NN
+Male,23,EYes,FYes,GNo,HNo,IYes,JY,KY,LN,MN,NN
+Male,19-22,EYes,FNo,GYes,HNo,IN,JM,KY,LY,MN,NY
+Option 3,23,EYes,FYes,GNo,HNo,IN,JM,KY,LY,MN,NY
+Option 3,19-22,EMaybe,FMay be,GYes,HYes,IN,JN,KY,LN,MN,NN
+Male,19-22,ENo,FNo,GNo,HNo,IM,JN,KY,LY,MN,NY
+Male,23,EYes,FNo,GMay be,HNo,IN,JM,KY,LY,MN,NM
+Male,19-22,ENo,FYes,GMay be,HNo,IN,JM,KY,LY,MN,NN
+Option 3,19-22,EYes,FYes,GYes,HNo,IN,JM,KY,LN,MN,NY
+Male,23,EYes,FYes,GYes,HMay be,IN,JN,KY,LN,MN,NM
+Option 3,19-22,EYes,FYes,GMay be,HNo,IM,JN,KY,LY,MN,NN
+Option 3,19-22,EYes,FYes,GNo,HNo,IN,JN,KY,LN,MN,NY
+Male,23,EYes,FMay be,GMay be,HNo,IN,JM,KY,LY,MN,NM
+Male,19-22,EYes,FYes,GNo,HNo,IN,JM,KM,LN,MN,NM
+Male,19-22,EYes,FNo,GNo,HNo,IN,JY,KY,LN,MN,NY
+Male,19-22,EYes,FNo,GYes,HNo,IN,JN,KY,LY,MM,NN
+Option 3,23,EYes,FYes,GNo,HNo,IN,JY,KY,LY,MN,NY
+Option 4,19-22,EYes,FMay be,GMay be,HNo,IN,JN,KM,LN,MN,NM
+Male,23,ENo,FNo,GMay be,HMay be,IM,JN,KY,LY,MN,NM
+Male,23,EYes,FYes,GYes,HNo,IN,JN,KM,LY,MN,NM
+Female,23-30,EYes,FYes,GYes,HNo,IN,JN,KY,LN,MN,NY
+Female,19-22,EYes,FMay be,GYes,HNo,IM,JY,KM,LY,MN,NY
+Female,19-22,EYes,FMay be,GNo,HNo,IM,JN,KY,LN,MN,NN
+Male,19-22,EMaybe,FMay be,GMay be,HNo,IM,JM,KY,LN,MN,NN
+Male,19-22,ENo,FNo,GMay be,HMay be,IM,JY,KN,LY,MN,NM
+Male,19-22,ENo,FYes,GYes,HNo,IN,JN,KY,LN,MN,NN
+Male,19-22,EYes,FYes,GYes,HNo,IN,JY,KN,LN,MN,NY
+Male,19-22,EYes,FMay be,GMay be,HNo,IN,JM,KM,LN,MN,NN
+Female,19-22,EMaybe,FNo,GMay be,HNo,IM,JN,KY,LY,MN,NY
+Male,19-22,EYes,FYes,GMay be,HNo,IM,JM,KY,LY,MN,NM
+Male,23-30,ENo,FNo,GYes,HNo,IM,JY,KY,LY,MN,NY
+Male,19-22,EMaybe,FYes,GMay be,HNo,IM,JN,KY,LY,MY,NY
+Male,23-30,EMaybe,FYes,GMay be,HNo,IN,JN,KY,LN,MN,NN
+Male,23-30,EMaybe,FMay be,GMay be,HNo,IN,JY,KM,LN,MN,NY
+Male,23-30,EYes,FYes,GYes,HNo,IM,JY,KY,LN,MN,NM
+Male,31-50,EYes,FMay be,GMay be,HNo,IYes,JN,KN,LN,MY,NN
+Female,19-22,EYes,FYes,GYes,HYes,IYes,JY,KY,LY,MY,NY
+Male,23-30,ENo,FNo,GMay be,HNo,IN,JM,KN,LN,MN,NM
+Female,19-22,EYes,FMay be,GYes,HNo,IN,JN,KY,LY,MN,NN
+Male,23-30,EYes,FYes,GYes,HNo,IN,JN,KY,LN,MN,NY
+Male,23-30,ENo,FNo,GNo,HNo,IN,JN,KN,LN,MN,NN
+Male,23-30,EYes,FNo,GNo,HNo,IN,JY,KN,LN,MN,NN
+Male,19-22,EYes,FYes,GMay be,HNo,IN,JN,KY,LN,MM,NY
+Female,19-22,EMaybe,FYes,GYes,HMay be,IN,JM,KY,LN,MM,NN
+Male,23-30,ENo,FMay be,GYes,HNo,IN,JN,KY,LN,MY,NN
+Male,23-30,EYes,FYes,GMay be,HNo,IM,JM,KY,LM,MN,NM
+Male,19-22,EYes,FMay be,GYes,HNo,IN,JN,KY,LY,MN,NY
+Male,19-22,ENo,FYes,GYes,HNo,IYes,JM,KY,LY,MM,NY
+Male,19-22,ENo,FNo,GMay be,HNo,IN,JN,KY,LN,MY,NM
+Male,23-30,EYes,FYes,GYes,HYes,IYes,JY,KY,LY,MN,NN
+Male,23-30,EYes,FYes,GNo,HNo,IN,JN,KY,LN,MN,NY
+Female,19-22,ENo,FYes,GNo,HNo,IN,JN,KM,LN,MN,NN
+Other,Above 60,ENo,FNo,GMay be,HYes,IYes,JY,KY,LY,MY,NN
+Female,19-22,EYes,FNo,GYes,HYes,IYes,JN,KY,LN,MY,NY
+Male,19-22,ENo,FNo,GYes,HNo,IN,JN,KN,LN,MN,NY
+Male,19-22,EYes,FYes,GYes,HNo,IN,JY,KN,LN,MN,NN
+Male,19-22,EYes,FYes,GMay be,HNo,IN,JM,KY,LN,MN,NM
+Male,19-22,ENo,FNo,GNo,HNo,IN,JY,KM,LN,MN,NY
+Male,23-30,ENo,FYes,GMay be,HNo,IN,JN,KM,LM,MM,NM
+Male,19-22,ENo,FNo,GMay be,HNo,IM,JN,KY,LY,MN,NY
+Male,23-30,EYes,FYes,GNo,HNo,IN,JN,KN,LN,MN,NY
+Female,19-22,EYes,FMay be,GYes,HNo,IM,JM,KY,LM,MN,NY
+Male,19-22,EYes,FYes,GYes,HMay be,IM,JM,KY,LN,MN,NN
+Male,19-22,EYes,FYes,GMay be,HYes,IN,JY,KY,LY,MN,NY
+Female,19-22,EYes,FYes,GNo,HYes,IM,JN,KY,LN,MN,NN
+Male,19-22,EYes,FNo,GYes,HNo,IN,JY,KY,LY,MN,NY
+Female,19-22,EMaybe,FMay be,GYes,HNo,IM,JY,KY,LY,MN,NY
+Male,23-30,EYes,FNo,GYes,HMay be,IM,JN,KN,LN,MN,NY
+Female,19-22,EMaybe,FNo,GMay be,HNo,IN,JM,KY,LY,MN,NY
+Female,19-22,EYes,FYes,GNo,HNo,IN,JM,KY,LN,MN,NY
+Male,19-22,EYes,FNo,GYes,HNo,IN,JN,KY,LY,MN,NM
+Male,23-30,ENo,FYes,GYes,HNo,IN,JN,KY,LN,MN,NN
+Male,19-22,EYes,FYes,GMay be,HYes,IN,JN,KN,LN,MN,NY
+Male,19-22,EYes,FYes,GYes,HNo,IYes,JN,KY,LN,MN,NY
+Male,23-30,EMaybe,FYes,GYes,HNo,IN,JN,KY,LN,MN,NN
+Female,19-22,EYes,FYes,GMay be,HMay be,IM,JY,KY,LY,MM,NM
+Male,23-30,EYes,FYes,GYes,HNo,IM,JN,KM,LN,MN,NM
+Male,19-22,ENo,FNo,GMay be,HMay be,IM,JM,KY,LY,MN,NY
+Male,23-30,EYes,FNo,GYes,HNo,IN,JN,KY,LN,MN,NN
+Male,19-22,EYes,FYes,GYes,HNo,IM,JM,KY,LY,MN,NY
+Male,23-30,EYes,FYes,GNo,HNo,IN,JN,KY,LN,MN,NN
+Male,23-30,EYes,FYes,GNo,HNo,IN,JN,KM,LY,MN,NN
+Male,23-30,EMaybe,FMay be,GNo,HYes,IN,JN,KY,LY,MN,NY
+Male,23-30,EYes,FNo,GYes,HYes,IN,JM,KY,LN,MN,NN
+Male,19-22,EYes,FMay be,GYes,HNo,IN,JM,KY,LY,MN,NY
+Male,19-22,EYes,FYes,GYes,HNo,IM,JN,KY,LY,MN,NM
+Male,19-22,EYes,FNo,GNo,HNo,IM,JM,KM,LN,MN,NN
+Male,19-22,EYes,FYes,GNo,HNo,IN,JN,KY,LN,MN,NN
+Male,23-30,EYes,FYes,GNo,HNo,IN,JY,KY,LN,MN,NY
+Male,19-22,EMaybe,FNo,GYes,HNo,IN,JN,KM,LN,MN,NN
+Male,19-22,EYes,FYes,GYes,HYes,IN,JN,KY,LY,MN,NN
+Female,23-30,EYes,FNo,GMay be,HMay be,IN,JN,KY,LN,MN,NY
+Female,19-22,ENo,FYes,GYes,HMay be,IN,JN,KY,LN,MN,NY
+Male,23-30,EYes,FNo,GYes,HMay be,IM,JM,KY,LY,MN,NY
+Female,19-22,EYes,FYes,GMay be,HYes,IM,JY,KY,LY,MN,NY
+Female,19-22,EYes,FYes,GYes,HMay be,IYes,JN,KY,LN,MN,NY
+Male,19-22,EYes,FNo,GYes,HNo,IN,JY,KY,LN,MN,NY
+Male,23-30,EYes,FNo,GYes,HNo,IM,JM,KN,LN,MN,NN
+Male,23-30,ENo,FNo,GNo,HNo,IN,JY,KY,LY,MN,NY
+Male,23-30,EMaybe,FNo,GYes,HNo,IM,JY,KY,LM,MY,NM
+Male,19-22,EYes,FYes,GNo,HNo,IN,JN,KY,LY,MN,NM
+Male,19-22,EYes,FYes,GYes,HNo,IN,JN,KY,LN,MN,NY
+Male,23-30,EYes,FYes,GNo,HNo,IYes,JN,KY,LN,MN,NN
+Male,23-30,EYes,FMay be,GMay be,HNo,IN,JM,KY,LM,MN,NN
+Male,23-30,EYes,FMay be,GNo,HNo,IN,JM,KM,LN,MN,NN
+Female,19-22,EYes,FNo,GMay be,HNo,IN,JY,KY,LN,MN,NY
+Male,19-22,EYes,FNo,GYes,HNo,IN,JN,KN,LN,MN,NY
+Female,14-18,ENo,FMay be,GYes,HMay be,IYes,JY,KY,LN,MN,NM
+Male,23-30,ENo,FNo,GYes,HNo,IN,JN,KN,LN,MN,NN
+Female,19-22,EYes,FYes,GNo,HMay be,IYes,JY,KY,LY,MN,NM
+Male,23-30,EYes,FNo,GNo,HNo,IN,JM,KY,LY,MN,NM
+Male,23-30,EYes,FNo,GMay be,HYes,IM,JY,KY,LY,MN,NN
+Male,19-22,ENo,FNo,GYes,HYes,IYes,JY,KY,LY,MN,NN
+Female,19-22,EYes,FNo,GNo,HYes,IM,JM,KY,LY,MN,NY
+Female,19-22,EMaybe,FNo,GMay be,HNo,IN,JM,KY,LN,MN,NY
+Male,23-30,EYes,FYes,GYes,HNo,IM,JN,KY,LN,MN,NY
+Male,19-22,EYes,FYes,GYes,HNo,IN,JY,KY,LN,MN,NN
+Male,23-30,ENo,FNo,GYes,HYes,IN,JY,KY,LY,MY,NY
+Female,19-22,ENo,FNo,GMay be,HNo,IN,JN,KY,LY,MN,NN
+Male,23-30,EYes,FYes,GYes,HNo,IN,JY,KY,LN,MN,NN
+Male,19-22,EYes,FNo,GYes,HNo,IN,JM,KY,LN,MN,NM
+Female,19-22,EYes,FYes,GYes,HNo,IM,JN,KN,LN,MN,NN
+Male,19-22,EYes,FYes,GYes,HNo,IN,JM,KY,LY,MN,NM
+Male,23-30,EMaybe,FNo,GNo,HNo,IN,JY,KY,LN,MY,NM
+Male,23-30,EYes,FNo,GYes,HNo,IN,JM,KY,LN,MN,NY
+Male,23-30,ENo,FNo,GNo,HNo,IN,JN,KN,LN,MN,NN
+Male,19-22,ENo,FYes,GMay be,HYes,IN,JY,KN,LN,MN,NY
+Male,23-30,EYes,FYes,GYes,HNo,IN,JN,KN,LN,MN,NM
+Male,23-30,EYes,FYes,GYes,HMay be,IM,JN,KY,LY,MN,NM
+Male,23-30,EYes,FYes,GYes,HNo,IN,JN,KY,LN,MN,NN
+Female,19-22,EYes,FYes,GMay be,HNo,IN,JM,KN,LN,MN,NN
+Male,19-22,ENo,FNo,GMay be,HMay be,IM,JM,KY,LY,MN,NY
+Male,19-22,ENo,FNo,GMay be,HNo,IN,JY,KM,LN,MN,NY
+Female,23-30,EMaybe,FYes,GYes,HNo,IN,JM,KY,LN,MN,NM
+Female,23-30,EYes,FMay be,GYes,HNo,IN,JN,KY,LN,MN,NM
+Male,19-22,EMaybe,FMay be,GNo,HNo,IN,JY,KY,LY,MY,NN
+Male,23-30,EMaybe,FMay be,GNo,HNo,IN,JY,KY,LY,MN,NY
+Male,23-30,EYes,FYes,GNo,HNo,IN,JM,KY,LN,MN,NY
+Male,19-22,EYes,FYes,GNo,HNo,IM,JN,KY,LN,MN,NY
+Female,19-22,EYes,FNo,GMay be,HNo,IM,JN,KN,LN,MN,NN
+Male,19-22,EYes,FMay be,GMay be,HNo,IN,JN,KY,LY,MN,NM
+Male,19-22,EYes,FYes,GYes,HNo,IN,JN,KY,LN,MN,NN
+Male,19-22,EYes,FNo,GNo,HNo,IN,JM,KM,LN,MN,NM
+Female,19-22,EYes,FYes,GYes,HYes,IN,JN,KY,LY,MN,NY
+Male,23-30,EYes,FNo,GYes,HNo,IM,JY,KY,LN,MN,NY
+Male,19-22,EYes,FYes,GYes,HNo,IN,JY,KY,LY,MN,NY
+Male,19-22,EYes,FNo,GNo,HNo,IN,JY,KY,LN,MN,NY
+Male,23-30,EYes,FNo,GYes,HNo,IN,JN,KY,LN,MY,NN
+Male,19-22,ENo,FNo,GMay be,HYes,IM,JY,KY,LN,MN,NM
+Female,19-22,ENo,FNo,GNo,HNo,IN,JN,KY,LN,MN,NN
+Male,23-30,ENo,FNo,GYes,HNo,IYes,JN,KN,LN,MY,NY
+Male,19-22,EYes,FNo,GYes,HYes,IN,JY,KY,LN,MN,NN
+Male,19-22,EMaybe,FNo,GMay be,HNo,IN,JN,KY,LN,MN,NM
+Male,19-22,ENo,FYes,GNo,HMay be,IN,JN,KM,LN,MN,NM
+Male,19-22,EYes,FYes,GMay be,HNo,IN,JN,KY,LN,MN,NN
+Male,23-30,EYes,FYes,GMay be,HNo,IM,JN,KY,LN,MN,NY
+Female,23-30,EYes,FNo,GYes,HNo,IM,JM,KY,LN,MN,NN
+Male,23-30,ENo,FYes,GNo,HNo,IM,JM,KY,LY,MN,NY
+Male,23-30,ENo,FNo,GMay be,HMay be,IN,JM,KY,LN,MM,NN
+Female,23-30,EYes,FNo,GNo,HNo,IN,JY,KY,LY,MY,NN
+Female,23-30,ENo,FNo,GYes,HNo,IN,JN,KY,LN,MN,NY
+Male,23-30,ENo,FNo,GMay be,HNo,IM,JY,KY,LM,MN,NY
+Male,19-22,EYes,FMay be,GMay be,HNo,IM,JN,KY,LY,MN,NM
+Male,23-30,ENo,FNo,GNo,HYes,IN,JY,KY,LN,MY,NN
+Female,23-30,EYes,FMay be,GYes,HNo,IYes,JY,KY,LN,MN,NN
+Male,23-30,EYes,FMay be,GMay be,HNo,IYes,JY,KM,LN,MN,NM
+Male,23-30,ENo,FNo,GYes,HYes,IYes,JY,KY,LY,MY,NY
+Female,19-22,EYes,FMay be,GNo,HYes,IYes,JN,KY,LY,MN,NY
+Male,23-30,EYes,FNo,GNo,HNo,IN,JN,KY,LN,MN,NN
+Male,19-22,ENo,FNo,GYes,HNo,IN,JM,KY,LY,MN,NN
+Female,14-18,EYes,FMay be,GYes,HMay be,IYes,JM,KM,LY,MN,NM
+Female,19-22,EYes,FYes,GYes,HNo,IN,JM,KY,LY,MN,NM
+Male,19-22,EYes,FNo,GYes,HNo,IM,JN,KY,LY,MN,NM
+Female,19-22,EYes,FNo,GYes,HNo,IN,JM,KY,LN,MN,NN
+Male,19-22,EYes,FYes,GNo,HNo,IN,JN,KY,LM,MN,NY
+Female,19-22,EYes,FMay be,GYes,HNo,IN,JM,KY,LN,MN,NY
+Male,19-22,EYes,FYes,GMay be,HYes,IM,JM,KY,LN,MN,NY
+Male,19-22,EYes,FNo,GMay be,HNo,IM,JM,KY,LY,MN,NN
+Male,23-30,EYes,FNo,GYes,HNo,IN,JY,KY,LM,MM,NN
+Male,23-30,ENo,FNo,GYes,HNo,IN,JN,KY,LN,MN,NY
+Male,19-22,EYes,FNo,GYes,HNo,IN,JN,KM,LY,MN,NY
+Female,19-22,EYes,FYes,GNo,HNo,IN,JN,KY,LN,MN,NN
+Female,19-22,EYes,FYes,GYes,HNo,IYes,JM,KY,LN,MN,NY
+Male,23-30,EYes,FNo,GMay be,HNo,IN,JN,KY,LN,MN,NN
+Male,19-22,ENo,FNo,GNo,HMay be,IM,JM,KN,LN,MY,NN
+Male,19-22,EMaybe,FNo,GNo,HNo,IN,JY,KN,LN,MN,NN
+Female,19-22,EYes,FMay be,GYes,HNo,IN,JM,KY,LN,MN,NN
+Male,23-30,EYes,FYes,GMay be,HNo,IN,JN,KY,LN,MN,NY
+Female,19-22,ENo,FNo,GNo,HYes,IYes,JM,KY,LY,MN,NY
+Female,19-22,EYes,FYes,GYes,HNo,IN,JY,KY,LN,MN,NN
+Male,23-30,EYes,FNo,GMay be,HNo,IN,JN,KY,LY,MY,NY
+Male,23-30,EYes,FYes,GNo,HNo,IN,JN,KY,LN,MN,NM
+Female,19-22,EMaybe,FYes,GYes,HNo,IM,JM,KY,LY,MN,NY
+Male,19-22,EYes,FYes,GMay be,HNo,IN,JN,KY,LN,MN,NY
+Female,19-22,EMaybe,FYes,GYes,HYes,IM,JY,KM,LN,MN,NY
+Female,23-30,EYes,FYes,GYes,HNo,IN,JM,KY,LN,MN,NN
+Male,19-22,EYes,FMay be,GYes,HNo,IM,JM,KM,LY,MN,NY
+Male,23-30,EYes,FYes,GMay be,HNo,IM,JY,KN,LN,MN,NN
+Female,19-22,EYes,FMay be,GYes,HMay be,IM,JN,KY,LY,MN,NN
+Female,19-22,EYes,FMay be,GNo,HNo,IN,JM,KY,LN,MN,NN
+Female,19-22,EYes,FYes,GNo,HNo,IM,JM,KY,LN,MN,NN
+Male,23-30,EMaybe,FNo,GYes,HNo,IN,JN,KM,LY,MN,NY
+Male,23-30,EYes,FYes,GYes,HYes,IN,JM,KY,LN,MY,NY
+Female,19-22,EYes,FMay be,GNo,HNo,IN,JM,KY,LY,MN,NM
+Male,23-30,ENo,FYes,GMay be,HMay be,IYes,JN,KM,LN,MN,NY
+Male,14-18,EYes,FYes,GNo,HNo,IN,JN,KY,LN,MN,NY
+Female,19-22,EYes,FMay be,GYes,HMay be,IM,JM,KY,LY,MN,NY
+Male,19-22,ENo,FNo,GNo,HNo,IN,JN,KN,LN,MY,NM
+Female,23-30,EYes,FNo,GNo,HNo,IM,JN,KY,LN,MN,NM
+Male,19-22,EMaybe,FNo,GMay be,HNo,IN,JN,KY,LN,MN,NY
+Female,19-22,ENo,FNo,GYes,HNo,IN,JM,KN,LN,MY,NN
+Male,19-22,EYes,FNo,GMay be,HNo,IN,JN,KY,LM,MN,NY
+Male,23-30,EYes,FYes,GMay be,HNo,IN,JN,KY,LN,MN,NY
+Female,19-22,EYes,FNo,GYes,HNo,IN,JN,KY,LN,MN,NY
+Male,23-30,EYes,FYes,GMay be,HNo,IM,JY,KM,LN,MN,NN
+Male,19-22,ENo,FNo,GNo,HMay be,IN,JN,KM,LN,MY,NN
+Male,23-30,EYes,FYes,GYes,HNo,IYes,JY,KY,LN,MY,NY
+Male,19-22,EYes,FYes,GMay be,HYes,IM,JM,KY,LN,MN,NN
+Male,19-22,EMaybe,FYes,GMay be,HNo,IN,JM,KY,LY,MY,NM
+Male,23-30,EYes,FYes,GMay be,HNo,IN,JN,KM,LN,MN,NM
+Female,23-30,EYes,FMay be,GMay be,HNo,IN,JM,KY,LN,MN,NN
+Male,23-30,ENo,FNo,GNo,HNo,IM,JM,KM,LY,MN,NM
+Female,19-22,EYes,FMay be,GYes,HYes,IM,JM,KY,LN,MN,NM
+Female,19-22,EYes,FYes,GYes,HYes,IM,JM,KY,LY,MN,NY
+Male,23-30,EYes,FNo,GYes,HYes,IYes,JN,KY,LN,MN,NN
+Male,23-30,EYes,FYes,GYes,HNo,IM,JM,KY,LN,MN,NY
+Male,23-30,EYes,FMay be,GYes,HNo,IN,JM,KY,LN,MM,NY
+Male,19-22,EYes,FMay be,GNo,HNo,IN,JM,KY,LN,MN,NY
+Female,19-22,EYes,FYes,GYes,HNo,IM,JN,KY,LN,MN,NY
+Female,19-22,EYes,FMay be,GYes,HNo,IM,JM,KY,LN,MM,NN
+Male,23-30,ENo,FNo,GMay be,HNo,IN,JN,KY,LY,MM,NY
+Female,19-22,EYes,FNo,GYes,HNo,IN,JY,KY,LN,MN,NY
+Male,19-22,EYes,FYes,GYes,HNo,IN,JN,KN,LN,MN,NN
+Male,23-30,EYes,FYes,GYes,HNo,IN,JN,KY,LN,MN,NM
+Female,19-22,EYes,FYes,GYes,HNo,IM,JN,KY,LN,MN,NN
+Male,23-30,EYes,FYes,GYes,HNo,IN,JY,KY,LY,MN,NY
+Male,14-18,EYes,FYes,GMay be,HMay be,IN,JN,KY,LY,MN,NN
+Male,23-30,ENo,FMay be,GMay be,HNo,IN,JM,KM,LN,MN,NM
+Male,19-22,ENo,FNo,GMay be,HNo,IN,JN,KY,LN,MN,NN
+Male,23-30,EMaybe,FNo,GYes,HYes,IN,JN,KY,LY,MM,NY
+Male,23-30,EYes,FYes,GNo,HNo,IN,JN,KM,LN,MN,NY
+Male,19-22,EYes,FYes,GYes,HMay be,IYes,JM,KY,LN,MM,NN
+Male,19-22,EYes,FYes,GYes,HNo,IN,JN,KY,LN,MN,NM
+Female,19-22,EYes,FYes,GNo,HNo,IM,JN,KY,LN,MN,NN
+Female,19-22,EYes,FNo,GYes,HNo,IM,JY,KY,LN,MN,NM
+Male,19-22,EMaybe,FYes,GMay be,HNo,IN,JN,KM,LN,MY,NN
+Female,23-30,EYes,FMay be,GNo,HNo,IN,JN,KY,LY,MN,NM
+Female,23-30,ENo,FYes,GNo,HNo,IYes,JN,KM,LN,MN,NM
+Male,19-22,EYes,FYes,GMay be,HNo,IN,JN,KY,LY,MN,NN
+Male,23-30,EYes,FYes,GNo,HNo,IN,JN,KN,LN,MN,NY
+Male,19-22,EMaybe,FYes,GYes,HNo,IN,JN,KY,LY,MN,NN
+Male,19-22,EYes,FYes,GYes,HNo,IM,JN,KY,LY,MN,NM
+Female,23-30,EYes,FNo,GNo,HNo,IM,JM,KY,LN,MN,NY
+Male,19-22,EYes,FYes,GYes,HYes,IN,JM,KY,LY,MN,NM
+Male,19-22,EMaybe,FMay be,GYes,HNo,IN,JN,KN,LN,MN,NN
+Male,23-30,ENo,FNo,GNo,HNo,IN,JN,KM,LN,MN,NY
+Male,19-22,EYes,FNo,GNo,HMay be,IM,JY,KY,LN,MN,NY
+Male,19-22,ENo,FYes,GNo,HNo,IN,JM,KY,LN,MN,NM
+Male,19-22,EYes,FYes,GYes,HNo,IM,JM,KY,LN,MN,NY
+Male,31-50,EYes,FNo,GNo,HNo,IN,JN,KN,LN,MN,NY
+Male,23-30,EMaybe,FYes,GNo,HYes,IYes,JY,KY,LY,MY,NN
+Male,19-22,EYes,FYes,GYes,HNo,IN,JN,KY,LY,MN,NY
+Male,19-22,EYes,FNo,GYes,HYes,IYes,JN,KY,LN,MN,NY
+Male,19-22,EMaybe,FYes,GMay be,HNo,IN,JN,KY,LM,MN,NN
+Female,19-22,ENo,FNo,GNo,HNo,IN,JM,KY,LN,MY,NY
+Male,19-22,EMaybe,FMay be,GYes,HNo,IM,JN,KY,LY,MN,NY
+Male,19-22,EYes,FNo,GYes,HYes,IN,JN,KM,LN,MN,NN
+Male,19-22,EYes,FYes,GMay be,HYes,IN,JM,KY,LN,MM,NM
+Male,19-22,EYes,FNo,GYes,HNo,IN,JN,KY,LN,MY,NN
+Female,23-30,EYes,FNo,GYes,HNo,IN,JY,KY,LM,MY,NM
+Female,19-22,EYes,FNo,GNo,HNo,IN,JM,KM,LN,MN,NN
+Female,19-22,EMaybe,FNo,GYes,HNo,IN,JM,KY,LN,MN,NY
+Male,19-22,EYes,FYes,GNo,HNo,IN,JN,KY,LM,MN,NN
+Male,19-22,ENo,FNo,GNo,HNo,IM,JY,KY,LY,MN,NN
+Male,19-22,EYes,FYes,GYes,HNo,IN,JM,KY,LN,MN,NM
+Male,19-22,EYes,FNo,GMay be,HNo,IN,JN,KM,LN,MN,NM
+Male,19-22,ENo,FYes,GNo,HNo,IYes,JN,KY,LY,MN,NN
+Male,19-22,EYes,FYes,GMay be,HNo,IN,JM,KY,LY,MN,NY
+Female,19-22,EYes,FYes,GYes,HNo,IN,JN,KY,LN,MN,NN
+Male,23-30,EYes,FNo,GYes,HNo,IN,JN,KY,LY,MN,NN
+Female,19-22,ENo,FNo,GNo,HNo,IN,JN,KY,LN,MN,NY
+Male,19-22,EYes,FYes,GMay be,HNo,IN,JM,KY,LY,MN,NY
+Male,19-22,EMaybe,FMay be,GNo,HNo,IN,JN,KY,LN,MN,NN
+Male,23-30,ENo,FNo,GNo,HNo,IN,JN,KY,LY,MN,NN
+Male,23-30,EYes,FMay be,GMay be,HNo,IN,JM,KN,LN,MM,NN
+Male,23-30,EYes,FYes,GMay be,HNo,IM,JN,KY,LY,MN,NN
+Male,19-22,EYes,FYes,GYes,HNo,IM,JY,KY,LN,MN,NM
+Male,23-30,EYes,FYes,GYes,HNo,IM,JN,KY,LN,MN,NN
+Female,19-22,EYes,FNo,GNo,HNo,IN,JM,KN,LN,MN,NN
+Male,19-22,EYes,FYes,GYes,HYes,IYes,JN,KM,LN,MY,NN
+Female,19-22,EMaybe,FMay be,GNo,HNo,IN,JN,KY,LN,MN,NM
+Male,19-22,EYes,FNo,GMay be,HNo,IN,JY,KY,LY,MN,NY
+Male,23-30,EYes,FYes,GYes,HMay be,IM,JM,KY,LY,MN,NN
+Male,19-22,ENo,FNo,GMay be,HNo,IN,JN,KY,LY,MN,NY
+Male,19-22,ENo,FNo,GNo,HNo,IN,JY,KY,LY,MN,NY
+Male,19-22,EYes,FYes,GMay be,HNo,IN,JN,KY,LN,MN,NY
+Male,19-22,EYes,FYes,GNo,HYes,IYes,JN,KY,LN,MY,NY
+Male,23-30,EMaybe,FNo,GNo,HNo,IN,JN,KY,LN,MY,NN
+Male,23-30,EMaybe,FYes,GYes,HNo,IN,JN,KY,LN,MN,NM
+Male,23-30,EYes,FYes,GYes,HNo,IN,JN,KN,LN,MN,NY
+Female,19-22,EYes,FYes,GYes,HNo,IN,JM,KM,LY,MN,NY
+Female,19-22,EYes,FYes,GYes,HYes,IYes,JN,KY,LN,MN,NN
+Female,19-22,EYes,FYes,GMay be,HNo,IN,JN,KM,LN,MN,NM
+Female,19-22,EYes,FNo,GYes,HNo,IN,JM,KY,LM,MN,NY
+Female,23-30,EYes,FYes,GNo,HNo,IN,JN,KM,LM,MN,NN
+Male,23-30,EYes,FYes,GYes,HNo,IN,JN,KY,LY,MN,NN
+Female,23-30,EYes,FMay be,GYes,HNo,IN,JN,KY,LM,MN,NN
+Female,19-22,EYes,FYes,GNo,HNo,IN,JM,KY,LN,MN,NM
+Female,19-22,EYes,FMay be,GYes,HNo,IM,JM,KM,LN,MN,NY
+Female,19-22,EMaybe,FMay be,GYes,HNo,IM,JM,KY,LN,MN,NM
+Male,19-22,EMaybe,FNo,GYes,HNo,IM,JM,KM,LN,MN,NN
+Female,23-30,EYes,FYes,GYes,HNo,IN,JN,KY,LN,MN,NN
+Female,19-22,EMaybe,FNo,GMay be,HNo,IN,JY,KM,LN,MM,NY
+Male,19-22,ENo,FNo,GNo,HMay be,IYes,JM,KY,LY,MN,NM
+Male,19-22,EYes,FYes,GMay be,HNo,IN,JN,KY,LN,MN,NN
+Female,19-22,EYes,FYes,GYes,HNo,IN,JN,KY,LN,MN,NN
+Male,23-30,ENo,FNo,GMay be,HNo,IN,JM,KN,LN,MY,NM
+Male,19-22,EYes,FNo,GNo,HNo,IN,JN,KM,LY,MY,NN
+Male,23-30,EYes,FMay be,GYes,HNo,IN,JN,KY,LM,MN,NY
+Male,23-30,EYes,FNo,GNo,HNo,IN,JY,KM,LN,MN,NY
+Male,19-22,ENo,FNo,GMay be,HNo,IN,JN,KY,LY,MN,NM
+Male,23-30,EMaybe,FNo,GYes,HNo,IM,JM,KM,LN,MN,NM
+Male,19-22,EMaybe,FNo,GMay be,HNo,IN,JY,KN,LN,MN,NM
+Female,19-22,EYes,FYes,GYes,HNo,IN,JM,KN,LN,MN,NN
+Male,19-22,ENo,FNo,GNo,HMay be,IN,JM,KY,LN,MN,NM
+Male,19-22,ENo,FNo,GNo,HNo,IN,JN,KM,LN,MN,NN
+Female,19-22,EYes,FYes,GNo,HNo,IN,JY,KY,LN,MN,NN
+Female,19-22,ENo,FNo,GNo,HNo,IN,JN,KN,LN,MN,NN
+Male,19-22,ENo,FNo,GYes,HYes,IN,JN,KY,LY,MY,NN
+Female,23-30,EMaybe,FYes,GNo,HNo,IM,JM,KY,LN,MN,NY
+Female,19-22,ENo,FNo,GMay be,HMay be,IM,JN,KY,LY,MN,NY
+Male,23-30,EYes,FYes,GYes,HNo,IM,JM,KM,LN,MN,NY
+Female,19-22,EYes,FYes,GYes,HNo,IN,JM,KY,LN,MN,NM
+Male,19-22,EYes,FNo,GYes,HMay be,IM,JM,KN,LN,MN,NN
+Male,23-30,EMaybe,FNo,GYes,HNo,IN,JN,KY,LN,MY,NN
+Female,14-18,ENo,FMay be,GYes,HNo,IN,JN,KY,LN,MN,NY
+Male,23-30,ENo,FNo,GNo,HMay be,IM,JN,KY,LY,MN,NY
+Female,19-22,EYes,FMay be,GYes,HNo,IM,JN,KY,LY,MN,NM
+Male,23-30,EYes,FYes,GYes,HNo,IN,JN,KY,LN,MN,NY
+Male,19-22,EYes,FNo,GYes,HNo,IN,JN,KY,LN,MN,NY
+Male,23-30,EYes,FMay be,GMay be,HYes,IM,JN,KY,LY,MN,NN
+Male,19-22,EYes,FYes,GNo,HNo,IN,JM,KY,LY,MN,NM
+Female,19-22,EYes,FNo,GYes,HNo,IN,JN,KY,LN,MN,NM
+Male,19-22,EYes,FYes,GMay be,HMay be,IN,JN,KN,LY,MN,NM
+Male,19-22,ENo,FYes,GNo,HMay be,IM,JN,KY,LY,MN,NM
+Male,23-30,ENo,FNo,GYes,HNo,IN,JY,KY,LN,MN,NN
+Male,23-30,ENo,FMay be,GYes,HYes,IN,JN,KY,LY,MM,NY
+Female,19-22,EYes,FNo,GMay be,HNo,IN,JM,KM,LN,MN,NY
+Male,19-22,EMaybe,FNo,GMay be,HNo,IN,JY,KY,LY,MN,NM
+Male,23-30,EYes,FMay be,GNo,HNo,IM,JM,KY,LN,MN,NY
+Female,19-22,EYes,FYes,GMay be,HNo,IN,JY,KY,LY,MN,NN
+Female,19-22,EYes,FYes,GMay be,HNo,IN,JN,KY,LN,MN,NN
+Male,19-22,EYes,FMay be,GMay be,HNo,IM,JM,KY,LN,MN,NM
+Male,23-30,EMaybe,FNo,GYes,HMay be,IN,JM,KN,LN,MY,NN
+Female,19-22,EYes,FMay be,GYes,HYes,IN,JM,KM,LN,MN,NM
+Male,23-30,ENo,FNo,GNo,HNo,IN,JY,KN,LN,MN,NY
+Male,23-30,EYes,FYes,GMay be,HNo,IM,JM,KM,LN,MM,NN
+Male,19-22,EYes,FYes,GYes,HNo,IN,JN,KY,LN,MN,NN
+Male,19-22,EYes,FYes,GYes,HNo,IN,JM,KY,LN,MN,NM
+Male,23-30,EYes,FMay be,GMay be,HNo,IN,JN,KY,LN,MN,NN
+Male,23-30,EMaybe,FMay be,GYes,HNo,IN,JY,KY,LN,MY,NY
+Male,23-30,EYes,FYes,GNo,HNo,IN,JN,KY,LY,MN,NY
+Male,23-30,EYes,FYes,GNo,HNo,IN,JN,KY,LY,MN,NY
+Female,19-22,ENo,FNo,GNo,HNo,IM,JM,KM,LN,MN,NN
+Male,19-22,ENo,FYes,GNo,HNo,IN,JN,KY,LN,MY,NN
+Female,19-22,EYes,FYes,GYes,HNo,IN,JN,KY,LN,MN,NM
+Male,19-22,ENo,FNo,GMay be,HNo,IN,JN,KY,LN,MN,NY
+Male,23-30,EYes,FYes,GMay be,HNo,IYes,JY,KM,LM,MM,NY
+Male,19-22,EMaybe,FMay be,GMay be,HMay be,IN,JN,KY,LN,MN,NM
+Male,19-22,EYes,FNo,GMay be,HNo,IN,JY,KY,LN,MN,NY
+Female,19-22,EYes,FNo,GNo,HNo,IN,JY,KN,LN,MY,NY
+Male,23-30,EYes,FYes,GYes,HNo,IN,JN,KY,LN,MN,NN
+Female,19-22,EMaybe,FYes,GNo,HNo,IN,JM,KY,LN,MN,NY
+Male,23-30,ENo,FNo,GYes,HNo,IN,JN,KY,LY,MN,NN
+Female,23-30,EMaybe,FYes,GMay be,HNo,IM,JN,KY,LY,MM,NY
+Male,23-30,EYes,FMay be,GYes,HNo,IN,JM,KM,LN,MN,NN
+Female,23-30,EYes,FYes,GYes,HNo,IN,JN,KY,LY,MN,NY
+Male,23-30,EMaybe,FMay be,GYes,HYes,IN,JM,KY,LN,MN,NN
+Male,19-22,EYes,FYes,GYes,HNo,IN,JN,KY,LN,MN,NM
+Male,19-22,EMaybe,FYes,GYes,HNo,IYes,JN,KY,LN,MN,NN
+Male,19-22,EYes,FYes,GYes,HNo,IN,JN,KY,LN,MN,NN
+Male,23-30,EYes,FYes,GYes,HYes,IN,JY,KN,LN,MY,NN
+Male,23-30,EMaybe,FNo,GNo,HNo,IN,JN,KY,LN,MN,NY
+Female,19-22,EYes,FNo,GMay be,HMay be,IYes,JM,KY,LY,MN,NN
+Male,19-22,EYes,FYes,GYes,HNo,IM,JN,KY,LY,MN,NY
+Female,23-30,EMaybe,FNo,GNo,HNo,IYes,JN,KY,LY,MN,NY
+Male,19-22,ENo,FNo,GNo,HMay be,IM,JM,KY,LY,MN,NN
+Female,19-22,ENo,FNo,GNo,HMay be,IM,JN,KY,LY,MN,NY
+Female,19-22,EYes,FMay be,GMay be,HMay be,IYes,JY,KY,LY,MN,NY
+Male,23-30,EYes,FYes,GMay be,HNo,IM,JN,KY,LN,MN,NN
+Male,19-22,EYes,FYes,GNo,HNo,IN,JM,KM,LN,MN,NN
+Female,19-22,EYes,FYes,GYes,HNo,IN,JN,KY,LN,MN,NY
+Male,23-30,EYes,FYes,GYes,HNo,IN,JN,KY,LN,MN,NN
+Female,23-30,EYes,FYes,GYes,HNo,IN,JN,KY,LN,MN,NN
+Male,23-30,EYes,FYes,GMay be,HNo,IN,JN,KY,LN,MN,NM
+Male,23-30,ENo,FNo,GNo,HNo,IN,JN,KY,LY,MN,NY
+Male,23-30,EYes,FYes,GYes,HYes,IYes,JY,KY,LN,MN,NY
+Male,23-30,EYes,FYes,GNo,HNo,IM,JM,KN,LN,MN,NY
+Male,19-22,EYes,FYes,GYes,HNo,IN,JN,KY,LN,MN,NN
+Male,23-30,EMaybe,FMay be,GNo,HNo,IN,JN,KY,LN,MM,NY
+Male,19-22,EYes,FYes,GYes,HNo,IN,JY,KY,LN,MN,NN
+Male,19-22,EYes,FYes,GYes,HNo,IM,JN,KM,LN,MN,NN
+Female,23-30,EYes,FMay be,GYes,HNo,IN,JN,KM,LM,MN,NY
+Male,23-30,EYes,FNo,GMay be,HNo,IM,JY,KM,LY,MY,NY
+Male,19-22,EYes,FNo,GYes,HNo,IM,JY,KY,LY,MN,NY
+Male,23-30,ENo,FNo,GNo,HNo,IN,JM,KM,LN,MY,NN
+Female,23-30,EYes,FYes,GYes,HNo,IN,JN,KY,LN,MN,NY
+Female,19-22,EYes,FYes,GYes,HNo,IN,JY,KN,LN,MN,NN
+Male,19-22,ENo,FNo,GNo,HNo,IN,JN,KY,LN,MN,NY
+Male,19-22,EYes,FYes,GYes,HNo,IYes,JN,KN,LN,MY,NY
+Male,19-22,EYes,FNo,GYes,HNo,IM,JM,KY,LY,MY,NY
+Female,19-22,EYes,FYes,GYes,HYes,IM,JY,KM,LN,MN,NY
+Male,19-22,EYes,FNo,GYes,HNo,IN,JM,KY,LN,MN,NY
+Female,19-22,EYes,FMay be,GYes,HMay be,IN,JN,KY,LN,MN,NM
+Female,19-22,EYes,FYes,GMay be,HNo,IN,JN,KN,LN,MY,NN
+Male,19-22,ENo,FNo,GYes,HNo,IN,JN,KY,LN,MN,NN
+Male,19-22,EYes,FNo,GMay be,HNo,IYes,JY,KY,LM,MN,NY
+Male,23-30,ENo,FNo,GMay be,HNo,IN,JY,KY,LY,MY,NM
+Female,23-30,EYes,FNo,GNo,HNo,IM,JN,KY,LN,MN,NY
+Male,19-22,EYes,FYes,GYes,HNo,IN,JM,KN,LN,MN,NN
+Male,23-30,ENo,FNo,GNo,HNo,IN,JN,KM,LN,MM,NN
+Male,23-30,EYes,FNo,GNo,HNo,IN,JN,KY,LY,MN,NY
+Female,19-22,EYes,FYes,GMay be,HYes,IN,JM,KN,LN,MN,NN
+Female,19-22,EYes,FYes,GYes,HNo,IM,JN,KY,LN,MN,NM
+Female,19-22,EYes,FMay be,GMay be,HNo,IM,JM,KY,LN,MN,NY
+Female,19-22,EMaybe,FMay be,GYes,HNo,IM,JN,KN,LN,MY,NN
+Male,19-22,EYes,FNo,GYes,HNo,IN,JN,KY,LN,MN,NY
+Male,19-22,EYes,FNo,GMay be,HNo,IN,JM,KM,LM,MN,NY
+Female,23-30,EYes,FYes,GYes,HNo,IN,JN,KY,LN,MN,NY
+Male,23-30,ENo,FNo,GNo,HYes,IYes,JY,KY,LY,MN,NY
+Female,19-22,EMaybe,FNo,GYes,HNo,IM,JY,KY,LY,MN,NY
+Female,23-30,EYes,FYes,GYes,HMay be,IM,JM,KY,LN,MN,NN
+Female,19-22,EYes,FNo,GYes,HYes,IYes,JN,KY,LY,MN,NY
+Female,19-22,EYes,FYes,GYes,HNo,IM,JY,KY,LN,MN,NM
+Male,23-30,EYes,FYes,GNo,HNo,IN,JY,KY,LY,MY,NN
+Female,19-22,EMaybe,FYes,GNo,HNo,IN,JN,KM,LN,MN,NN
+Male,23-30,EYes,FYes,GYes,HNo,IN,JN,KY,LY,MN,NN
+Male,19-22,EYes,FNo,GNo,HNo,IN,JM,KY,LY,MN,NY
+Male,19-22,EMaybe,FYes,GYes,HNo,IM,JN,KY,LN,MN,NM
+Male,23-30,EYes,FYes,GNo,HNo,IN,JN,KN,LN,MN,NY
+Female,19-22,EYes,FYes,GNo,HNo,IN,JN,KN,LN,MN,NY
+Female,19-22,EYes,FYes,GMay be,HNo,IN,JN,KM,LN,MN,NN
+Female,23-30,EYes,FNo,GYes,HNo,IM,JM,KY,LY,MN,NM
+Female,19-22,EYes,FYes,GYes,HNo,IYes,JN,KY,LY,MN,NN
+Male,23-30,EYes,FNo,GYes,HNo,IM,JN,KN,LN,MN,NY
+Male,19-22,ENo,FNo,GYes,HYes,IYes,JY,KY,LN,MY,NN
+Male,23-30,ENo,FNo,GYes,HNo,IN,JY,KY,LN,MN,NN
+Male,23-30,EYes,FYes,GMay be,HNo,IN,JN,KM,LN,MN,NN
+Female,19-22,EYes,FYes,GYes,HYes,IN,JN,KY,LN,MN,NY
+Male,23-30,EYes,FYes,GYes,HNo,IM,JM,KY,LY,MN,NY
+Male,19-22,EYes,FYes,GMay be,HNo,IN,JN,KY,LN,MN,NN
+Female,19-22,EYes,FYes,GYes,HNo,IM,JM,KN,LN,MN,NM
+Male,19-22,EYes,FYes,GNo,HMay be,IN,JN,KY,LN,MN,NM
+Male,19-22,EYes,FYes,GMay be,HNo,IM,JN,KY,LY,MM,NY
+Male,19-22,ENo,FNo,GNo,HNo,IN,JN,KY,LN,MN,NN
+Male,23-30,EYes,FYes,GMay be,HNo,IN,JN,KY,LY,MM,NN
+Male,23-30,EYes,FNo,GNo,HNo,IN,JM,KY,LN,MN,NN
+Male,19-22,EYes,FNo,GNo,HNo,IN,JN,KY,LN,MN,NN
+Female,23-30,EYes,FYes,GYes,HYes,IYes,JN,KM,LN,MN,NY
+Male,19-22,ENo,FNo,GNo,HNo,IN,JY,KM,LY,MY,NN
+Female,19-22,EYes,FMay be,GYes,HNo,IM,JM,KM,LM,MN,NY
+Male,19-22,EYes,FNo,GYes,HNo,IN,JY,KY,LY,MN,NN
+Male,23-30,EYes,FYes,GYes,HNo,IN,JN,KY,LN,MN,NN
+Male,19-22,EYes,FYes,GMay be,HNo,IM,JM,KM,LN,MN,NN
+Female,23-30,EYes,FNo,GYes,HNo,IN,JM,KY,LY,MY,NN
+Female,19-22,EYes,FYes,GYes,HNo,IN,JM,KM,LY,MN,NN
+Male,19-22,EYes,FNo,GYes,HNo,IM,JY,KM,LN,MN,NY
+Male,19-22,ENo,FNo,GNo,HNo,IN,JY,KN,LN,MN,NY
+Female,19-22,EYes,FYes,GMay be,HMay be,IN,JN,KY,LN,MN,NN
+Male,23-30,EYes,FMay be,GYes,HMay be,IYes,JM,KY,LY,MN,NY
+Male,23-30,EYes,FYes,GYes,HNo,IN,JN,KN,LN,MN,NM
+Male,19-22,EYes,FYes,GYes,HNo,IN,JN,KY,LN,MN,NM
+Female,19-22,EYes,FYes,GMay be,HMay be,IN,JM,KY,LY,MN,NY
+Female,19-22,EYes,FYes,GMay be,HNo,IN,JN,KY,LN,MN,NN
+Male,19-22,EYes,FYes,GNo,HNo,IM,JM,KY,LN,MN,NY
+Female,19-22,EYes,FNo,GMay be,HYes,IM,JY,KY,LN,MY,NN
+Male,23-30,EYes,FYes,GYes,HNo,IYes,JN,KY,LY,MY,NN
+Male,19-22,EYes,FYes,GMay be,HNo,IN,JN,KM,LN,MN,NN
+Male,19-22,EYes,FNo,GMay be,HNo,IM,JY,KN,LN,MN,NN
+Female,19-22,EMaybe,FNo,GNo,HNo,IN,JY,KN,LN,MN,NN
+Female,23-30,EYes,FNo,GNo,HNo,IYes,JM,KY,LY,MN,NY
+Male,19-22,EMaybe,FNo,GMay be,HNo,IN,JN,KN,LN,MN,NN
+Female,19-22,EYes,FYes,GYes,HNo,IN,JM,KY,LN,MN,NN
+Male,19-22,ENo,FNo,GMay be,HNo,IYes,JY,KY,LY,MN,NN
+Female,23-30,ENo,FNo,GYes,HYes,IM,JM,KY,LY,MN,NM
+Male,19-22,ENo,FNo,GNo,HMay be,IM,JM,KY,LY,MY,NY
+Male,19-22,EMaybe,FNo,GYes,HNo,IN,JY,KY,LN,MN,NN
+Male,23-30,EMaybe,FMay be,GMay be,HMay be,IM,JM,KY,LM,MN,NM
+Female,19-22,EYes,FYes,GNo,HNo,IN,JN,KY,LN,MM,NN
+Male,19-22,ENo,FMay be,GYes,HNo,IM,JN,KY,LY,MN,NY
+Male,23-30,ENo,FNo,GNo,HNo,IN,JM,KN,LN,MY,NN
+Female,19-22,EMaybe,FMay be,GYes,HYes,IYes,JM,KY,LN,MN,NN
+Male,19-22,EMaybe,FMay be,GNo,HNo,IN,JM,KY,LN,MN,NN
+Male,23-30,EYes,FYes,GNo,HNo,IN,JN,KY,LN,MN,NY
+Male,23-30,EYes,FYes,GMay be,HNo,IYes,JM,KM,LN,MN,NM
+Male,23-30,ENo,FYes,GMay be,HNo,IN,JY,KY,LY,MN,NN
+Male,19-22,EYes,FNo,GMay be,HNo,IN,JN,KM,LN,MM,NN
+Male,23-30,EYes,FNo,GYes,HNo,IN,JY,KY,LN,MN,NN
+Female,23-30,EYes,FNo,GNo,HYes,IYes,JN,KY,LN,MN,NN
+Female,23-30,EYes,FYes,GNo,HNo,IN,JN,KY,LN,MN,NN
+Male,19-22,EYes,FNo,GMay be,HNo,IM,JM,KY,LN,MN,NY
+Male,19-22,EYes,FYes,GYes,HNo,IN,JN,KY,LN,MN,NY
+Male,19-22,EYes,FYes,GMay be,HMay be,IM,JN,KM,LY,MN,NN
+Male,23-30,EYes,FNo,GYes,HYes,IM,JY,KY,LN,MN,NY
+Male,19-22,EYes,FYes,GYes,HNo,IN,JM,KN,LN,MN,NY
+Male,23-30,EMaybe,FYes,GMay be,HMay be,IM,JM,KY,LN,MN,NN
+Male,19-22,EMaybe,FNo,GYes,HNo,IN,JM,KY,LN,MN,NN
+Female,19-22,EYes,FNo,GNo,HNo,IN,JN,KN,LN,MN,NY
+Male,19-22,EYes,FNo,GYes,HNo,IYes,JN,KY,LN,MY,NY
+Male,19-22,EYes,FYes,GYes,HMay be,IM,JY,KN,LN,MN,NN
+Male,19-22,EMaybe,FYes,GYes,HNo,IN,JN,KM,LN,MN,NN
+Male,23-30,EMaybe,FNo,GMay be,HNo,IN,JY,KY,LN,MN,NY
+Male,19-22,ENo,FNo,GYes,HNo,IN,JY,KY,LN,MN,NY
+Female,19-22,EYes,FNo,GNo,HNo,IN,JN,KY,LN,MN,NY
+Male,19-22,EYes,FYes,GYes,HMay be,IYes,JY,KY,LN,MN,NN
+Female,19-22,EYes,FNo,GYes,HNo,IN,JN,KM,LN,MN,NN
+Male,19-22,EMaybe,FMay be,GYes,HNo,IN,JM,KY,LY,MN,NY
+Male,23-30,ENo,FNo,GNo,HNo,IM,JY,KN,LY,MN,NY
+Male,23-30,EYes,FYes,GMay be,HNo,IM,JY,KM,LY,MM,NY
+Male,19-22,EYes,FYes,GMay be,HNo,IN,JN,KY,LN,MN,NN
+Male,23-30,ENo,FNo,GNo,HNo,IN,JY,KM,LN,MY,NY
+Male,23-30,EYes,FYes,GMay be,HYes,IN,JN,KY,LM,MN,NN
+Male,19-22,EYes,FNo,GYes,HNo,IM,JM,KY,LN,MN,NN
+Male,19-22,EYes,FNo,GMay be,HNo,IYes,JN,KY,LN,MN,NN
+Female,19-22,EYes,FYes,GYes,HNo,IN,JN,KY,LY,MN,NY
+Female,19-22,EYes,FYes,GMay be,HNo,IN,JN,KY,LN,MN,NN
+Male,19-22,EYes,FYes,GYes,HNo,IN,JY,KY,LN,MN,NY
+Male,23-30,EYes,FNo,GNo,HNo,IYes,JN,KM,LN,MM,NN
+Male,23-30,EYes,FYes,GMay be,HNo,IN,JM,KY,LN,MM,NY
+Female,19-22,EYes,FYes,GNo,HYes,IM,JN,KY,LN,MN,NY
+Female,19-22,EYes,FYes,GYes,HNo,IM,JM,KY,LY,MN,NM
+Male,19-22,EMaybe,FYes,GMay be,HNo,IN,JY,KM,LN,MN,NM
+Male,23-30,EYes,FYes,GMay be,HMay be,IM,JN,KY,LY,MN,NM
+Male,19-22,EYes,FNo,GNo,HNo,IYes,JM,KN,LY,MN,NN
+Male,19-22,ENo,FYes,GYes,HMay be,IN,JM,KY,LN,MN,NY
+Male,23-30,EYes,FNo,GMay be,HNo,IN,JN,KM,LN,MN,NM
+Male,19-22,EYes,FYes,GNo,HNo,IN,JM,KM,LN,MN,NM
+Male,19-22,EYes,FYes,GMay be,HNo,IN,JN,KY,LM,MN,NN
+Male,23-30,EYes,FYes,GMay be,HNo,IM,JM,KN,LN,MN,NM
+Male,23-30,EYes,FMay be,GNo,HNo,IN,JY,KN,LN,MN,NN
+Male,19-22,EYes,FYes,GMay be,HNo,IN,JN,KN,LN,MN,NY
+Female,23-30,EYes,FMay be,GMay be,HNo,IN,JN,KY,LY,MN,NY
+Male,19-22,EYes,FNo,GMay be,HNo,IN,JN,KY,LM,MN,NY
+Male,23-30,EYes,FYes,GNo,HNo,IYes,JN,KM,LN,MN,NN
+Male,19-22,EYes,FYes,GMay be,HNo,IN,JM,KY,LY,MN,NN
+Male,23-30,ENo,FNo,GNo,HNo,IN,JN,KY,LN,MN,NN
+Male,19-22,EYes,FYes,GMay be,HYes,IM,JY,KN,LN,MN,NM
+Female,19-22,ENo,FNo,GYes,HMay be,IM,JN,KN,LY,MN,NN
+Female,19-22,EYes,FYes,GYes,HNo,IN,JM,KM,LN,MN,NY
+Female,23-30,EYes,FYes,GMay be,HNo,IN,JN,KY,LY,MM,NN
+Male,19-22,EYes,FNo,GMay be,HNo,IYes,JY,KY,LY,MN,NY
+Male,19-22,EYes,FYes,GYes,HYes,IYes,JY,KY,LY,MN,NY
+Male,19-22,EYes,FNo,GYes,HYes,IM,JY,KY,LN,MN,NY
+Male,19-22,ENo,FNo,GMay be,HNo,IN,JM,KY,LN,MN,NM
+Male,23-30,EMaybe,FMay be,GNo,HNo,IYes,JY,KM,LN,MN,NY
+Male,19-22,EYes,FNo,GNo,HNo,IM,JM,KY,LN,MN,NM
+Male,19-22,EYes,FNo,GYes,HYes,IM,JY,KY,LN,MN,NM
+Male,19-22,EYes,FNo,GNo,HNo,IN,JN,KY,LY,MY,NY
+Female,14-18,EYes,FNo,GNo,HYes,IYes,JM,KY,LY,MY,NY
+Male,23-30,ENo,FNo,GNo,HNo,IN,JN,KN,LN,MN,NN
+Male,19-22,EYes,FYes,GMay be,HNo,IM,JM,KY,LN,MN,NY
+Male,23-30,EMaybe,FNo,GYes,HNo,IM,JN,KY,LY,MN,NN
+Male,23-30,EYes,FYes,GYes,HNo,IN,JM,KN,LN,MN,NN
+Male,19-22,EYes,FYes,GMay be,HNo,IN,JN,KY,LN,MN,NM
+Female,23-30,EYes,FYes,GMay be,HNo,IM,JM,KY,LN,MN,NY
+Female,23-30,EYes,FMay be,GNo,HNo,IM,JN,KY,LY,MN,NY
+Female,19-22,EMaybe,FNo,GYes,HNo,IM,JM,KY,LN,MY,NY
+Female,23-30,EYes,FYes,GYes,HNo,IN,JM,KY,LN,MN,NM
+Male,19-22,EYes,FYes,GYes,HNo,IM,JN,KY,LN,MN,NM
+Male,23-30,EYes,FYes,GMay be,HYes,IM,JY,KY,LM,MN,NY
+Female,19-22,EYes,FYes,GYes,HNo,IN,JM,KY,LN,MN,NN
+Male,19-22,EMaybe,FNo,GYes,HNo,IN,JM,KY,LN,MN,NY
+Female,23-30,EYes,FMay be,GYes,HNo,IN,JN,KY,LN,MN,NN
+Male,23-30,EYes,FMay be,GYes,HNo,IN,JM,KY,LM,MM,NY
+Female,19-22,EYes,FYes,GNo,HNo,IYes,JN,KY,LY,MN,NN
+Male,23-30,EYes,FNo,GYes,HYes,IN,JY,KY,LN,MN,NM
+Male,19-22,EYes,FYes,GMay be,HNo,IM,JN,KY,LY,MN,NY
+Male,19-22,EYes,FYes,GNo,HYes,IYes,JN,KY,LN,MN,NY
+Male,19-22,EYes,FNo,GYes,HNo,IN,JM,KM,LN,MN,NM
+Male,19-22,EMaybe,FNo,GMay be,HNo,IN,JN,KM,LN,MM,NM
+Female,19-22,EYes,FYes,GYes,HYes,IYes,JM,KY,LN,MM,NM
+Female,19-22,ENo,FMay be,GYes,HMay be,IM,JM,KY,LY,MN,NY
+Female,19-22,EYes,FNo,GYes,HNo,IN,JY,KY,LN,MN,NM
+Male,19-22,EYes,FYes,GYes,HNo,IM,JM,KY,LM,MN,NM
+Female,23-30,EYes,FNo,GYes,HNo,IN,JM,KY,LN,MN,NM
+Male,19-22,EYes,FYes,GNo,HNo,IM,JY,KY,LN,MN,NN
+Male,19-22,EYes,FYes,GYes,HMay be,IM,JN,KY,LY,MN,NY
+Male,23-30,ENo,FYes,GYes,HNo,IN,JY,KY,LY,MN,NN
+Female,19-22,EYes,FMay be,GMay be,HNo,IN,JM,KN,LN,MN,NN
+Female,19-22,EYes,FYes,GNo,HYes,IM,JN,KY,LM,MN,NM
+Female,19-22,EYes,FYes,GNo,HNo,IN,JN,KY,LN,MN,NN
+Female,19-22,EMaybe,FNo,GNo,HNo,IM,JN,KY,LN,MN,NY
+Male,19-22,ENo,FNo,GNo,HNo,IN,JN,KN,LN,MY,NN
+Male,23-30,ENo,FNo,GYes,HMay be,IM,JM,KY,LM,MN,NM
+Male,19-22,ENo,FYes,GMay be,HNo,IN,JM,KY,LN,MN,NM
+Male,19-22,EYes,FNo,GMay be,HNo,IN,JN,KY,LY,MN,NY
+Female,19-22,EYes,FYes,GMay be,HNo,IN,JY,KY,LN,MN,NY
+Male,19-22,EYes,FNo,GMay be,HNo,IN,JN,KM,LN,MN,NY
+Female,19-22,EYes,FYes,GMay be,HNo,IN,JM,KY,LN,MN,NM
+Male,19-22,EYes,FYes,GYes,HYes,IM,JY,KY,LY,MN,NN
+Male,19-22,ENo,FYes,GMay be,HNo,IM,JM,KM,LN,MM,NM
+Female,19-22,EYes,FYes,GYes,HNo,IN,JM,KM,LY,MM,NN
+Female,19-22,EMaybe,FNo,GNo,HNo,IN,JM,KY,LN,MN,NM
+Male,19-22,ENo,FYes,GYes,HNo,IN,JN,KY,LY,MN,NN
+Male,23-30,EYes,FYes,GYes,HNo,IN,JY,KY,LM,MN,NN
+Female,19-22,EYes,FYes,GNo,HNo,IM,JY,KY,LN,MN,NM
+Male,19-22,EYes,FYes,GYes,HNo,IM,JM,KY,LN,MN,NM
+Male,19-22,EMaybe,FNo,GYes,HNo,IM,JY,KM,LN,MN,NN
+Male,19-22,ENo,FMay be,GMay be,HNo,IN,JM,KM,LN,MN,NN
+Male,19-22,EYes,FMay be,GMay be,HNo,IM,JM,KM,LN,MN,NN
+Female,19-22,EYes,FYes,GYes,HYes,IN,JY,KY,LN,MN,NY
+Female,19-22,EYes,FYes,GYes,HNo,IN,JN,KY,LN,MN,NY
+Male,19-22,EYes,FYes,GMay be,HNo,IN,JM,KM,LN,MN,NN
+Male,19-22,ENo,FYes,GNo,HNo,IM,JN,KY,LY,MN,NN
+Female,19-22,EYes,FYes,GNo,HNo,IM,JN,KY,LY,MN,NM
+Male,19-22,EYes,FYes,GMay be,HNo,IN,JN,KM,LN,MM,NM
+Male,19-22,EYes,FNo,GNo,HNo,IM,JN,KY,LN,MN,NN
+Female,19-22,EYes,FYes,GYes,HNo,IN,JM,KM,LN,MN,NY
+Female,19-22,ENo,FYes,GYes,HNo,IN,JN,KY,LN,MN,NN
+Male,19-22,EYes,FYes,GMay be,HNo,IN,JN,KM,LY,MN,NM
+Male,23-30,ENo,FNo,GYes,HNo,IM,JN,KY,LN,MN,NM
+Male,19-22,EYes,FNo,GYes,HYes,IYes,JY,KM,LN,MY,NY
+Male,19-22,EYes,FYes,GYes,HNo,IN,JM,KY,LM,MN,NN
+Male,23-30,ENo,FNo,GYes,HNo,IN,JN,KN,LN,MY,NY
+Male,19-22,EYes,FYes,GYes,HNo,IM,JN,KY,LM,MN,NY
+Female,19-22,EYes,FYes,GMay be,HNo,IM,JN,KM,LN,MY,NY
+Female,19-22,EMaybe,FNo,GYes,HNo,IN,JM,KY,LM,MN,NM
+Male,23-30,EYes,FNo,GYes,HMay be,IM,JN,KY,LN,MN,NM
+Male,23-30,EYes,FMay be,GNo,HNo,IN,JN,KY,LN,MN,NY
+Male,23-30,EYes,FNo,GNo,HNo,IN,JM,KN,LN,MN,NY
+Male,23-30,EYes,FYes,GMay be,HNo,IYes,JM,KY,LN,MM,NY
+Male,23-30,EMaybe,FNo,GYes,HNo,IN,JM,KN,LN,MY,NN
+Male,23-30,EYes,Yes,GYes,HNo,IN,JM,KY,LN,MM,NY
+Female,23-30,EYes,FMay be,GMay be,HNo,IYes,JN,KY,LM,MN,NY
+Male,19-22,EYes,FNo,GNo,HNo,IN,JY,KN,LN,MN,NY
+Male,23-30,EYes,FNo,GMay be,HNo,IN,JY,KN,LN,MN,NN
+Male,23-30,EYes,FNo,GNo,HNo,IN,JN,KY,LY,MY,NY
+Female,23-30,EYes,FMay be,GNo,HNo,IN,JM,KM,LN,MN,NN
+Male,19-22,EYes,FMay be,GNo,HNo,IN,JY,KY,LY,MN,NY
+Male,23-30,EYes,FMay be,GNo,HNo,IM,JN,KN,LN,MM,NY
+Male,19-22,EYes,Yes,GYes,HNo,IN,JN,KN,LN,MN,NY
+Female,19-22,ENo,Yes,GYes,HNo,IM,JY,KN,LN,MN,NY
+Male,23-30,EYes,FMay be,GYes,HNo,IM,JM,KM,LN,MN,NN
+Female,23-30,EYes,FNo,GMay be,HMay be,IN,JN,KY,LN,MN,NY
+Male,23-30,ENo,FNo,GNo,HNo,IN,JM,KY,LN,MY,NN
+Male,23-30,EYes,Yes,GNo,HNo,IN,JY,KY,LY,MM,NN
+Male,51-60,EYes,Yes,GNo,HYes,IYes,JY,KM,LN,MN,NY
+Male,23-30,EYes,Yes,GNo,HNo,IN,JN,KN,LN,MN,NN
+Male,23-30,EYes,Yes,GYes,HNo,IM,JY,KN,LY,MY,NY
+Female,23-30,ENo,FNo,GYes,HNo,IN,JM,KN,LN,MN,NM
+Female,23-30,EYes,Yes,GMay be,HNo,IN,JN,KY,LN,MN,NN
+Male,23-30,EMaybe,Yes,GMay be,HNo,IN,JM,KY,LY,MN,NN
+Male,23-30,EYes,Yes,GYes,HNo,IN,JN,KN,LN,MY,NM
+Male,31-50,EYes,FNo,GMay be,HNo,IYes,JN,KY,LN,MN,NN
+Male,19-22,EYes,Yes,GMay be,HNo,IM,JN,KY,LY,MN,NN
+Male,23-30,EMaybe,FNo,GNo,HNo,IN,JN,KN,LN,MN,NY
+Female,19-22,EYes,FNo,GNo,HNo,IN,JM,KN,LN,MN,NN
+Female,19-22,EYes,Yes,GMay be,HNo,IN,JY,KN,LN,MN,NN
